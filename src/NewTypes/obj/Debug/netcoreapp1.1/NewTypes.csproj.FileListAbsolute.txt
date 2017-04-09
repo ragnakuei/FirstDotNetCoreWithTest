@@ -1,0 +1,16 @@
+/Users/Kuei/Documents/CSharp/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.deps.json
+/Users/Kuei/Documents/CSharp/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.runtimeconfig.json
+/Users/Kuei/Documents/CSharp/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.runtimeconfig.dev.json
+/Users/Kuei/Documents/CSharp/NewTypes/obj/Debug/netcoreapp1.1/NewTypes.AssemblyInfo.cs
+/Users/Kuei/Documents/CSharp/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.dll
+/Users/Kuei/Documents/CSharp/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.pdb
+/Users/Kuei/Documents/CSharp/NewTypes/obj/Debug/netcoreapp1.1/NewTypes.dll
+/Users/Kuei/Documents/CSharp/NewTypes/obj/Debug/netcoreapp1.1/NewTypes.pdb
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.deps.json
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.runtimeconfig.json
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.runtimeconfig.dev.json
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.dll
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/bin/Debug/netcoreapp1.1/NewTypes.pdb
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/obj/Debug/netcoreapp1.1/NewTypes.AssemblyInfo.cs
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/obj/Debug/netcoreapp1.1/NewTypes.dll
+/Users/Kuei/Documents/CSharp/NewTypes/src/NewTypes/obj/Debug/netcoreapp1.1/NewTypes.pdb

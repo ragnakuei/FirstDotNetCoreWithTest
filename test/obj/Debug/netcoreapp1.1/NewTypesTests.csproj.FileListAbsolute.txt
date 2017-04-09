@@ -1,0 +1,13 @@
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/NewTypesTests.deps.json
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/NewTypesTests.runtimeconfig.json
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/NewTypesTests.runtimeconfig.dev.json
+/Users/Kuei/Documents/CSharp/NewTypes/test/obj/Debug/netcoreapp1.1/NewTypesTests.AssemblyInfo.cs
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/NewTypesTests.dll
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/NewTypesTests.pdb
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/NewTypes.dll
+/Users/Kuei/Documents/CSharp/NewTypes/test/bin/Debug/netcoreapp1.1/NewTypes.pdb
+/Users/Kuei/Documents/CSharp/NewTypes/test/obj/Debug/netcoreapp1.1/NewTypesTests.dll
+/Users/Kuei/Documents/CSharp/NewTypes/test/obj/Debug/netcoreapp1.1/NewTypesTests.pdb
